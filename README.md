@@ -31,9 +31,9 @@ cheril-gedam-5b6170284
 
 <p align="left">
   I'm Cheril Gedam, a Computer Science and Engineering student from VNIT, India.<br><br>
-  - 🔭 I’m currently building projects in Web Development<br>
-  - 📚 I’m learning React and Node.js <br>
-  - 💡 I love solving DSA problems and improving system design<br>
+  - 🔭 🛠️ Familiar with C, C++, JavaScript, HTML, and Tailwind CSS framework <br>
+  -🌐 Exploring full-stack development using React and Node.js<br>
+  -🧠Actively improving logic-building and system design understanding<br>
  
 </p>
 
